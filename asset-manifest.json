@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shiva_MERN_React_Task4/static/css/main.c20cf27e.css",
+    "main.js": "/Shiva_MERN_React_Task4/static/js/main.e12648c7.js",
+    "static/js/787.6132404a.chunk.js": "/Shiva_MERN_React_Task4/static/js/787.6132404a.chunk.js",
+    "static/media/logo.svg": "/Shiva_MERN_React_Task4/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shiva_MERN_React_Task4/index.html",
+    "main.c20cf27e.css.map": "/Shiva_MERN_React_Task4/static/css/main.c20cf27e.css.map",
+    "main.e12648c7.js.map": "/Shiva_MERN_React_Task4/static/js/main.e12648c7.js.map",
+    "787.6132404a.chunk.js.map": "/Shiva_MERN_React_Task4/static/js/787.6132404a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c20cf27e.css",
+    "static/js/main.e12648c7.js"
+  ]
+}
